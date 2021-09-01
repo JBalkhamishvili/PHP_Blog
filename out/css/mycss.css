@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+}
+.container
+{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.card{
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: black;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+.blockquote-custom {
+    position: relative;
+    font-size: 1.1rem;
+}
+
+.register_login {
+    margin: 0 20rem 0 20rem;
+}
